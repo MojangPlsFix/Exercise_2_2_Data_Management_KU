@@ -8,5 +8,5 @@ The goal of this Program is to import the CSVs provided into out Database.
  - Maven
  - Internet for downloading libs from Maven Central
  
-#Usage
+## Usage
 ```IngestData ./confs.csv ./journals.csv ./persons.csv ./pubs.csv ./theses.csv <host> <port> <database> <user> <password>```
